@@ -8,7 +8,7 @@ import java.net.Socket;
 import java.net.UnknownHostException;
 
 /**
- * Echo client as defined on https://docs.oracle.com/en/java/javase/21/core/virtual-threads.html#
+ * Echo client as defined on <a href="https://docs.oracle.com/en/java/javase/21/core/virtual-threads.html#">Oracle docs</a>
  */
 public class EchoClient {
 

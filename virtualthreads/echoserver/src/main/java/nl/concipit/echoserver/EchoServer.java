@@ -8,7 +8,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 
 /**
- * Echo server as defined on https://docs.oracle.com/en/java/javase/21/core/virtual-threads.html#
+ * Echo server as defined on <a href="https://docs.oracle.com/en/java/javase/21/core/virtual-threads.html#">Oracle docs</a>
  */
 public class EchoServer {
 
